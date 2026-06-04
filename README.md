@@ -24,4 +24,9 @@ https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movie
 - Seaborn
 - Scikit-Learn
 
-## Project Structure
+## Key Findings
+
+- Higher Meta Scores tend to correlate with higher IMDB ratings.
+- Runtime has weak correlation with ratings.
+- Movie revenues show significant outliers.
+- Four movie clusters were identified using K-Means.
